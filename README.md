@@ -1,3 +1,31 @@
+<h1 align="center">Hi 👋, I'm Dilawer Khan</h1>
+<h3 align="center">A passionate Full-Stack Developer (Django & Flutter) and AI Enthusiast building scalable systems.</h3>
+
+- 🔭 I’m currently working on [NADRA AI Queue Management System](https://github.com/Akhoon-CodeNinja/nadra-queue-frontend)
+
+- 🌱 I’m currently learning **Advanced Computer Vision, Data Science, and deploying scalable architectures.**
+
+- 👯 I’m looking to collaborate on **Open-source Python, Flutter, or Applied AI projects.**
+
+- 🤝 I’m looking for help with **Expanding my "Truck Art" Image Dataset for creative Computer Vision applications.**
+
+- 👨‍💻 All of my projects are available at [https://dilawer-khan.lovable.app](https://dilawer-khan.lovable.app)
+
+- 💬 Ask me about **Python, Django, Flutter, REST APIs, SQL, and integrating AI into real-world applications.**
+
+- 📫 How to reach me **dilawer.khan.global@gmail.com**
+
+- ⚡ Fun fact **I love explaining complex tech and AI concepts in simple Roman Urdu, and when I'm out of the terminal, I'm usually managing events for my local football club! ⚽**
+
+<br>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/dilawer-khan-global" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/dilawer-khan-global" height="30" width="40" /></a>
+</p>
+
+<br>
+
 <h3 align="left">🛠️ Languages and Tools:</h3>
 
 <b>Programming Languages</b><br>
