@@ -1,64 +1,143 @@
-<h1 align="center">Hi 👋, I'm Dilawer Khan</h1>
-<h3 align="center">A passionate Full-Stack Developer (Django & Flutter) and AI Enthusiast building scalable systems.</h3>
+<div align="center">
 
-- 🔭 I’m currently working on [NADRA AI Queue Management System](https://github.com/Akhoon-CodeNinja/nadra-queue-frontend)
+<!-- Animated Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6e40c9,100:7c3aed&height=200&section=header&text=Dilawer%20Khan&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20AI%20Enthusiast%20%7C%20Problem%20Solver&descAlignY=58&descSize=18" width="100%" />
 
-- 🌱 I’m currently learning **Advanced Computer Vision, Data Science, and deploying scalable architectures.**
+<!-- Typing SVG -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&multiline=true&width=700&height=100&lines=Building+Scalable+Systems+with+Django+%26+Flutter;Turning+AI+Ideas+into+Real-World+Applications;Code+%7C+Innovate+%7C+Repeat+%F0%9F%9A%80)](https://git.io/typing-svg)
 
-- 👯 I’m looking to collaborate on **Open-source Python, Flutter, or Applied AI projects.**
+<br/>
 
-- 🤝 I’m looking for help with **Expanding my "Truck Art" Image Dataset for creative Computer Vision applications.**
+<!-- Social Badges -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dilawer-khan-global)
+[![Portfolio](https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://dilawer-khan.lovable.app)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dilawer.khan.global@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Akhoon-CodeNinja)
 
-- 👨‍💻 All of my projects are available at [https://dilawer-khan.lovable.app](https://dilawer-khan.lovable.app)
+<br/>
 
-- 💬 Ask me about **Python, Django, Flutter, REST APIs, SQL, and integrating AI into real-world applications.**
+![Profile Views](https://komarev.com/ghpvc/?username=Akhoon-CodeNinja&label=Profile+Views&color=7c3aed&style=flat)
+![GitHub followers](https://img.shields.io/github/followers/Akhoon-CodeNinja?label=Followers&style=flat&color=7c3aed)
 
-- 📫 How to reach me **dilawer.khan.global@gmail.com**
+</div>
 
-- ⚡ Fun fact **I love explaining complex tech and AI concepts in simple Roman Urdu, and when I'm out of the terminal, I'm usually managing events for my local football club! ⚽**
+---
 
-<br>
+## 🧑‍💻 About Me
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/dilawer-khan-global" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/dilawer-khan-global" height="30" width="40" /></a>
-</p>
+```python
+class DilawerKhan:
+    name       = "Dilawer Khan"
+    location   = "Pakistan 🇵🇰"
+    role       = "Full-Stack Developer (Django & Flutter) + AI Enthusiast"
+    languages  = ["Python", "Dart", "C++", "PHP"]
+    frameworks = ["Django", "Flutter", "Node.js"]
+    databases  = ["PostgreSQL", "MySQL", "MongoDB", "SQLite"]
+    interests  = ["Computer Vision", "Data Science", "Scalable Architectures"]
+    fun_fact   = "I explain complex AI in Roman Urdu & manage a football club ⚽"
 
-<br>
+    def current_focus(self):
+        return [
+            "🔭 Building: NADRA AI Queue Management System",
+            "🌱 Learning: Advanced Computer Vision & Data Science",
+            "🤝 Seeking: Truck Art Image Dataset contributions",
+            "👯 Open to: Python, Flutter & Applied AI collaborations"
+        ]
+```
 
-<h3 align="left">🛠️ Languages and Tools:</h3>
+---
 
-<p align="left"> 
-  <!-- Programming Languages -->
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" style="margin-right: 10px;"/> </a>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40" style="margin-right: 10px;"/> </a> 
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40" style="margin-right: 10px;"/> </a> 
-  <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40" style="margin-right: 10px;"/> </a> 
-  <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40" style="margin-right: 10px;"/> </a> 
-  
-  <!-- Frameworks & Web -->
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40" style="margin-right: 10px;"/> </a> 
-  <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40" style="margin-right: 10px;"/> </a> 
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" style="margin-right: 10px;"/> </a> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" style="margin-right: 10px;"/> </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" style="margin-right: 10px;"/> </a> 
+## 🛠️ Tech Stack
 
-  <!-- Databases -->
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" style="margin-right: 10px;"/> </a> 
-  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40" style="margin-right: 10px;"/> </a> 
-  <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40" style="margin-right: 10px;"/> </a> 
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40" style="margin-right: 10px;"/> </a> 
+<div align="center">
 
-  <!-- AI & Tools -->
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40" style="margin-right: 10px;"/> </a> 
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40" style="margin-right: 10px;"/> </a> 
-  <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40" style="margin-right: 10px;"/> </a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" style="margin-right: 10px;"/> </a> 
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" style="margin-right: 10px;"/> </a> 
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40" style="margin-right: 10px;"/> </a> 
+### 💬 Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
-  <!-- Design & Others -->
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40" style="margin-right: 10px;"/> </a> 
-  <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40" style="margin-right: 10px;"/> </a> 
-  <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40" style="margin-right: 10px;"/> </a> 
-</p>
+### 🚀 Frameworks & Platforms
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### 🗄️ Databases
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+
+### 🤖 AI / Data Science
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
+
+### ⚙️ DevOps & Tools
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Framer](https://img.shields.io/badge/Framer-0055FF?style=for-the-badge&logo=framer&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
+
+</div>
+
+---
+
+## 🔥 Featured Project
+
+<div align="center">
+
+| Project | Description | Stack |
+|--------|------------|-------|
+| 🏛️ [**NADRA AI Queue Management**](https://github.com/Akhoon-CodeNinja/nadra-queue-frontend) | AI-powered queue system for NADRA offices — reducing wait times with smart slot prediction | Django · Flutter · AI/ML |
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Akhoon-CodeNinja&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=12" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akhoon-CodeNinja&layout=compact&langs_count=8&theme=tokyonight&border_radius=12" />
+
+<br/>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Akhoon-CodeNinja&theme=tokyonight&border_radius=12)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+## 🤝 Let's Connect & Collaborate
+
+<div align="center">
+
+I'm actively looking to collaborate on:
+
+🐍 **Open-source Python projects** &nbsp;|&nbsp; 📱 **Flutter apps** &nbsp;|&nbsp; 🧠 **Applied AI systems**
+
+Also seeking contributions to my **Truck Art Image Dataset** for creative Computer Vision research!
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/Let's_Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dilawer-khan-global)
+[![Portfolio](https://img.shields.io/badge/View_My_Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://dilawer-khan.lovable.app)
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,100:6e40c9&height=100&section=footer" width="100%" />
+
+*"The best way to predict the future is to build it."* — Alan Kay
+
+</div>
