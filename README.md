@@ -25,25 +25,39 @@
 
 ## 🧑‍💻 About Me
 
-```python
-class DilawerKhan:
-    name       = "Dilawer Khan"
-    location   = "Pakistan 🇵🇰"
-    role       = "Full-Stack Developer (Django & Flutter) + AI Enthusiast"
-    languages  = ["Python", "Dart", "C++", "PHP"]
-    frameworks = ["Django", "Flutter", "Node.js"]
-    databases  = ["PostgreSQL", "MySQL", "MongoDB", "SQLite"]
-    interests  = ["Computer Vision", "Data Science", "Scalable Architectures"]
-    fun_fact   = "I explain complex AI in Roman Urdu & manage a football club ⚽"
+<table>
+  <tr>
+    <td valign="top" width="50%">
 
-    def current_focus(self):
-        return [
-            "🔭 Building: NADRA AI Queue Management System",
-            "🌱 Learning: Advanced Computer Vision & Data Science",
-            "🤝 Seeking: Truck Art Image Dataset contributions",
-            "👯 Open to: Python, Flutter & Applied AI collaborations"
-        ]
-```
+### 👤 Who I Am
+- 🌍 Based in **Pakistan**
+- 💼 **Full-Stack Developer** specializing in Django & Flutter
+- 🤖 **AI Enthusiast** turning research into real-world products
+- ⚽ Football club event manager off-hours
+- 🗣️ Explains complex AI in simple **Roman Urdu**
+
+### 📬 Reach Me
+- 📧 dilawer.khan.global@gmail.com
+- 💼 [linkedin.com/in/dilawer-khan-global](https://linkedin.com/in/dilawer-khan-global)
+- 🌐 [dilawer-khan.lovable.app](https://dilawer-khan.lovable.app)
+
+    </td>
+    <td valign="top" width="50%">
+
+### 🔭 Currently
+| | |
+|---|---|
+| 🏗️ Building | NADRA AI Queue Management System |
+| 🌱 Learning | Advanced Computer Vision & Data Science |
+| 🚀 Exploring | Scalable deployment architectures |
+| 🤝 Seeking | Truck Art Image Dataset contributors |
+
+### 💬 Ask Me About
+`Python` `Django` `Flutter` `REST APIs` `SQL` `AI Integration`
+
+    </td>
+  </tr>
+</table>
 
 ---
 
